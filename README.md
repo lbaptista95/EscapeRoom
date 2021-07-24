@@ -1,6 +1,6 @@
 # EscapeRoom
 
-To run this project, go to "EscapeRoom/Builds/EscapeRoom v.10" and execute the .exe file with the name of the project
+To run this project, go to "EscapeRoom/Builds/EscapeRoom v.10.zip", unzip it and execute the .exe file with the name of the project
 
 *** ESCAPE ROOM SOLUTION ***
 
