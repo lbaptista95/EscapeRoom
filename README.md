@@ -1,8 +1,8 @@
 # EscapeRoom
 
-To run this project, go to EscapeRoom/Builds/EscapeRoom and execute the .exe file with the name of the project
+To run this project, go to "EscapeRoom/Builds/EscapeRoom v.10" and execute the .exe file with the name of the project
 
-*** ESCAPE ROOM SOLUTIONS ***
+*** ESCAPE ROOM SOLUTION ***
 
 To escape this room, you must hear the Vinyl Player in front of you, it will say "The recipe for happiness is a chicken parmigiana. For more hints call 9112", so you can read the "RECIPES" book that's on the bookcase. In its last page you will find a key and a battery.
 
